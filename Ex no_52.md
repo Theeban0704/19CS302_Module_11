@@ -38,8 +38,8 @@ To write a function int max_of_four(int a, int b, int c, int d) which reads four
 ```
 /*
 C program to reverse a string.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: THEEBAN S
+RegisterNumber:  212222063015
 */
 #include <stdio.h>
 
